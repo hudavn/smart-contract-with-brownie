@@ -9,3 +9,4 @@ Something I have achieved after finishing this:
 - Deploy to a testnet through third-party like Infuria
 - Make private key more secure by using *accounts* module of Brownie
 - Using .env and brownie-config.yaml in basic
+- Working with Brownie console
